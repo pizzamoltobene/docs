@@ -1,2 +1,2 @@
-# docs
-There are some docs in here
+# FortiClient ZTNA with Kerberos and SMB drives
+This doc describes the setup
